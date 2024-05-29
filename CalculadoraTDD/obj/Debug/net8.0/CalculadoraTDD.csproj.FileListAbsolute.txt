@@ -1,0 +1,14 @@
+C:\Users\du_do\OneDrive\Documents\Visual Studio 2022\source\repos\Dio\CalculadoraTDD\CalculadoraTDD\bin\Debug\net8.0\CalculadoraTDD.exe
+C:\Users\du_do\OneDrive\Documents\Visual Studio 2022\source\repos\Dio\CalculadoraTDD\CalculadoraTDD\bin\Debug\net8.0\CalculadoraTDD.deps.json
+C:\Users\du_do\OneDrive\Documents\Visual Studio 2022\source\repos\Dio\CalculadoraTDD\CalculadoraTDD\bin\Debug\net8.0\CalculadoraTDD.runtimeconfig.json
+C:\Users\du_do\OneDrive\Documents\Visual Studio 2022\source\repos\Dio\CalculadoraTDD\CalculadoraTDD\bin\Debug\net8.0\CalculadoraTDD.dll
+C:\Users\du_do\OneDrive\Documents\Visual Studio 2022\source\repos\Dio\CalculadoraTDD\CalculadoraTDD\bin\Debug\net8.0\CalculadoraTDD.pdb
+C:\Users\du_do\OneDrive\Documents\Visual Studio 2022\source\repos\Dio\CalculadoraTDD\CalculadoraTDD\obj\Debug\net8.0\CalculadoraTDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\du_do\OneDrive\Documents\Visual Studio 2022\source\repos\Dio\CalculadoraTDD\CalculadoraTDD\obj\Debug\net8.0\CalculadoraTDD.AssemblyInfoInputs.cache
+C:\Users\du_do\OneDrive\Documents\Visual Studio 2022\source\repos\Dio\CalculadoraTDD\CalculadoraTDD\obj\Debug\net8.0\CalculadoraTDD.AssemblyInfo.cs
+C:\Users\du_do\OneDrive\Documents\Visual Studio 2022\source\repos\Dio\CalculadoraTDD\CalculadoraTDD\obj\Debug\net8.0\CalculadoraTDD.csproj.CoreCompileInputs.cache
+C:\Users\du_do\OneDrive\Documents\Visual Studio 2022\source\repos\Dio\CalculadoraTDD\CalculadoraTDD\obj\Debug\net8.0\CalculadoraTDD.dll
+C:\Users\du_do\OneDrive\Documents\Visual Studio 2022\source\repos\Dio\CalculadoraTDD\CalculadoraTDD\obj\Debug\net8.0\refint\CalculadoraTDD.dll
+C:\Users\du_do\OneDrive\Documents\Visual Studio 2022\source\repos\Dio\CalculadoraTDD\CalculadoraTDD\obj\Debug\net8.0\CalculadoraTDD.pdb
+C:\Users\du_do\OneDrive\Documents\Visual Studio 2022\source\repos\Dio\CalculadoraTDD\CalculadoraTDD\obj\Debug\net8.0\CalculadoraTDD.genruntimeconfig.cache
+C:\Users\du_do\OneDrive\Documents\Visual Studio 2022\source\repos\Dio\CalculadoraTDD\CalculadoraTDD\obj\Debug\net8.0\ref\CalculadoraTDD.dll
